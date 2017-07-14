@@ -1,6 +1,8 @@
 # cla-bot-playground
 A playground that allows people to play around with the [cla-bot](https://colineberhardt.github.io/cla-bot/) - a GitHub bot for automating CLA checks.
 
+a test edit 
+
 ## Instructions
 
 To see the cla-bot verifying your pull request:
